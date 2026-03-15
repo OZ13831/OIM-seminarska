@@ -1,6 +1,6 @@
 # Primerjava podjetij NIO, Great Wall Motor Company Limited in LiAuto
 
-## Uvod
+## 1. Uvod
 Seminarska naloga se osredotoča na primerjavo treh kitajskih avtomobilskih podjetij srednjega cenovnega razreda: NIO, Great Wall Motor Company Limited in LiAuto. Podjetja so bila izbrana na podlagi njihovega fokusa na proizvodnjo električnih vozil in podobne tržne kapitalizacije, hkrati pa so zanimiva tudi zaradi sedanjega prodora kitajske avtomobilske industrije na globalni trg.
 
 
@@ -31,3 +31,14 @@ Zadnje podjetje, ki ga bomo primerjali, je LiAuto, ustanovljeno leta 2015, v Pek
 Prodaja preteklega finančnega leta 2024 je znašala 18.053.159.451€, podjetje pa je doseglo dobiček v višini 1.005.414.892€. LiAuto ima 32,248 zaposlenih, tržna kapitalizacija podjetja pa je za leto 2024 znašala 206.437.248€.
 
 Najpomembnejši produkti podjetja, so električni SUV-ji, kot so Li ONE, ki je njihov prvi model in Li L9, ki je večji električni SUV s podaljšanim dosegom. Ostali produkti vključujejo Li L7, ki je še večji SUV, Li8 in Li9, ki sta različici modela L7 z različnimi specifikacijami. LiAuto se osredotoča na inovacije v tehnologiji električnih vozil, zlasti na področju baterij in sistemov za podaljšanje dosega, kar je ključni del njihove strategije za pridobivanje tržnega deleža v segmentu električnih vozil.
+
+## 2. Analiza in vrednotenje Dupont kazalcev uspešnosti podjetja
+
+Dupont analiza je metoda, ki se uporablja za razčlenitev donosnosti kapitala (ROE) na tri ključne komponente: neto dobičkonosnost, obratni kapital in finančni vzvod. Ta analiza nam omogoča bolj poglobljeno razumevanje, kaj vpliva na donosnost podjetja.
+
+### 2.1 Ključni Dupont kazalci uspešnosti podjetja
+
+//TODO: Analiza tabele za vsa podjetja
+#### NIO
+#### Great Wall Motor Company Limited
+#### LiAuto
